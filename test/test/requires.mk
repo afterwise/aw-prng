@@ -1,0 +1,4 @@
+
+REQUIRES = \
+	../extern/aw-prng
+
